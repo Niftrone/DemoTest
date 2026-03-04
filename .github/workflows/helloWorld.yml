@@ -13,5 +13,5 @@ jobs:
         run : echo "Github Actions 테스트가 성공적으로 실행 되었습니다."
 
       - name: Check OS Info
-        run: cat /etc/os-relaese
+        run: cat /etc/os-release
     
